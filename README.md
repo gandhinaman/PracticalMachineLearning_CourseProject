@@ -18,3 +18,10 @@ Read more: http://groupware.les.inf.puc-rio.br/har#ixzz4b5dbY2Nm
 
 #### Goal
 The goal of your project is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. You will also use your prediction model to predict 20 different test cases.
+
+## Analysis
+This github repo consists on two files -
+  1) The R markdown file having all the code of analysis
+  2) The compiled (or knitted) HTML file generated post-analysis
+  
+ 
