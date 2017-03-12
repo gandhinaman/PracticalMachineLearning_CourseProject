@@ -1,4 +1,4 @@
-# PracticalMachineLearning_CourseProject
+# Practical Machine Learning - Course Project (John Hopkins University - Data Science Specialization)
 This project analyzes the wearable data and predicts the class variable
 
 ## Project Objectives
