@@ -1,5 +1,5 @@
-# Practical Machine Learning - Course Project (John Hopkins University - Data Science Specialization)
-This project analyzes the wearable data and predicts the class variable
+# Practical Machine Learning - Course Project (Johns Hopkins University - Data Science Specialization)
+Summary - This project analyzes the wearable data and predicts the classe variable
 
 ## Project Objectives
 #### Background
